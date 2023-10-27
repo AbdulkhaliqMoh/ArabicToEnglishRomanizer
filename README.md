@@ -10,18 +10,21 @@ Convert Arabic text into its phonetic English equivalent.
 ## How to Use
 
 ### Python
+1. Copy the provided Python script into your project.
    ```python
    text = "مرحبا ١٢٣"
    english_text = arabic_to_english_spelling(text)
    print(english_text)  # Output: mrhba 123
 
 ### JavaScript
+1. Include the JavaScript function in your project.
    ```JavaScript
    const text = "مرحبا ١٢٣";
    const englishText = arabicToEnglishSpelling(text);
    console.log(englishText);  // Output: mrhba 123
 
 ### PHP
+1. Integrate the PHP function into your project.
    ```PHP
    $text = "مرحبا ١٢٣";
    $englishText = arabicToEnglishSpelling($text);
