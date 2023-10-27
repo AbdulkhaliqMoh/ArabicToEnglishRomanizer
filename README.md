@@ -17,7 +17,7 @@ Convert Arabic text into its phonetic English equivalent.
    english_text = arabic_to_english_spelling(text)
    print(english_text)  # Output: mrhba 123
 
-### Python
+### JavaScript
 1. Include the JavaScript function in your project.
 2. Invoke the `arabicToEnglishSpelling`` function to convert Arabic text.
    ```JavaScript
